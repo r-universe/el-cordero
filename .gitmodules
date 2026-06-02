@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "evacpath"]
 	path = evacpath
-	url = https://github.com/cran/evacpath
+	url = https://github.com/el-cordero/evacpath
