@@ -5,3 +5,6 @@
 [submodule "evacpath"]
 	path = evacpath
 	url = https://github.com/el-cordero/evacpath
+[submodule "pointcoral"]
+	path = pointcoral
+	url = https://github.com/el-cordero/pointcoral
