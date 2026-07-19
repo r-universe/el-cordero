@@ -8,3 +8,6 @@
 [submodule "pointcoral"]
 	path = pointcoral
 	url = https://github.com/el-cordero/pointcoral
+[submodule "potentiomap"]
+	path = potentiomap
+	url = https://github.com/el-cordero/potentiomap
